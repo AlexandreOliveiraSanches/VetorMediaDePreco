@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\VetorPorClasses\VetorPorClasses\bin\Debug\net7.0\VetorPorClasses.exe
+C:\codigos\projetos C#\VetorPorClasses\VetorPorClasses\bin\Debug\net7.0\VetorPorClasses.deps.json
+C:\codigos\projetos C#\VetorPorClasses\VetorPorClasses\bin\Debug\net7.0\VetorPorClasses.runtimeconfig.json
+C:\codigos\projetos C#\VetorPorClasses\VetorPorClasses\bin\Debug\net7.0\VetorPorClasses.dll
+C:\codigos\projetos C#\VetorPorClasses\VetorPorClasses\bin\Debug\net7.0\VetorPorClasses.pdb
+C:\codigos\projetos C#\VetorPorClasses\VetorPorClasses\obj\Debug\net7.0\VetorPorClasses.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\VetorPorClasses\VetorPorClasses\obj\Debug\net7.0\VetorPorClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\VetorPorClasses\VetorPorClasses\obj\Debug\net7.0\VetorPorClasses.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\VetorPorClasses\VetorPorClasses\obj\Debug\net7.0\VetorPorClasses.AssemblyInfo.cs
+C:\codigos\projetos C#\VetorPorClasses\VetorPorClasses\obj\Debug\net7.0\VetorPorClasses.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\VetorPorClasses\VetorPorClasses\obj\Debug\net7.0\VetorPorClasses.dll
+C:\codigos\projetos C#\VetorPorClasses\VetorPorClasses\obj\Debug\net7.0\refint\VetorPorClasses.dll
+C:\codigos\projetos C#\VetorPorClasses\VetorPorClasses\obj\Debug\net7.0\VetorPorClasses.pdb
+C:\codigos\projetos C#\VetorPorClasses\VetorPorClasses\obj\Debug\net7.0\VetorPorClasses.genruntimeconfig.cache
+C:\codigos\projetos C#\VetorPorClasses\VetorPorClasses\obj\Debug\net7.0\ref\VetorPorClasses.dll
